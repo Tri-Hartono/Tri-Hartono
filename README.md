@@ -1,5 +1,4 @@
 ### Hi there 👋
-![GIF Kucing Lucu](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 <!--
 **Tri-Hartono/Tri-Hartono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
