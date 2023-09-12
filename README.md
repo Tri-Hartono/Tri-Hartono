@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-I am a frontend developer who has responsive web design skills and beautiful UI, I like to learn new things according to my field. For me the job is a responsibility that is carried out carefully and to the maximum extent possible, both personal and team work
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
