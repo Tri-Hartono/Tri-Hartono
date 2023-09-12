@@ -1,6 +1,3 @@
-<div style="position: relative;">
-  <p style="position: absolute; animation: moveText 2s infinite;">This text will move.</p>
-</div>
 
 ### Hi there 👋
 
