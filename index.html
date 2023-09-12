@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+@keyframes moveText {
+  0% {
+    transform: translateX(0);
+  }
+  50% {
+    transform: translateX(100px);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+.animated-text {
+  animation: moveText 2s infinite;
+}
+</style>
+</head>
+<body>
+
+<p class="animated-text">This text will move.</p>
+
+</body>
+</html>
