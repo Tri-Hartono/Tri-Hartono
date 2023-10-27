@@ -12,3 +12,10 @@
 - ⚡ Fun fact: ...
 
 https://codepen.io/mtsgeneroso/pen/mdJRpxX
+
+
+
+ "[php]": {
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+  },
+  
