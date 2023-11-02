@@ -4,5 +4,5 @@
  
 ## Contact Me On
 
-* [![Email](https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge)](mailto:trihartono293@gmail.com)
-* [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&colorB=555)](https://www.linkedin.com/in/tri-hartono-88ab90240/)
+ [![Email](https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge)](mailto:trihartono293@gmail.com)
+ [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&colorB=555)](https://www.linkedin.com/in/tri-hartono-88ab90240/)
